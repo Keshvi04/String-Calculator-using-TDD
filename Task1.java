@@ -27,6 +27,6 @@ class Task1 {
     public static void main(String[] args) { 
         int res=add("");
         System.out.print(res);
-        System.out.println("Hello git");
+        
     }
 }
