@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 
 class Task1 {
+
 	public static final int add( String numbers) { 
         String[] array = numbers.split(",");
         int ans=0;
@@ -22,6 +23,7 @@ class Task1 {
             return ans;
         }        
     }
+    
     public static void main(String[] args) { 
         int res=add("");
         System.out.print(res);
