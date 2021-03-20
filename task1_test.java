@@ -4,7 +4,7 @@ import org.junit.Test;
 import com.wordpress.technologyconversations.tdd.StringCalculator;
 import java.io.*;
 
-class GFG {
+class Task1 {
 	public class StringCalculatorTest {
         @Test
         public final void func1() {                     //when an empty string is passed.
